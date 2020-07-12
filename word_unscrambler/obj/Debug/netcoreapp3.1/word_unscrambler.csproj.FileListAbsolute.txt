@@ -1,0 +1,12 @@
+/Users/zidan/Code/word_unscrambler/word_unscrambler/obj/Debug/netcoreapp3.1/word_unscrambler.csprojAssemblyReference.cache
+/Users/zidan/Code/word_unscrambler/word_unscrambler/obj/Debug/netcoreapp3.1/word_unscrambler.AssemblyInfoInputs.cache
+/Users/zidan/Code/word_unscrambler/word_unscrambler/obj/Debug/netcoreapp3.1/word_unscrambler.AssemblyInfo.cs
+/Users/zidan/Code/word_unscrambler/word_unscrambler/obj/Debug/netcoreapp3.1/word_unscrambler.csproj.CoreCompileInputs.cache
+/Users/zidan/Code/word_unscrambler/word_unscrambler/bin/Debug/netcoreapp3.1/word_unscrambler.deps.json
+/Users/zidan/Code/word_unscrambler/word_unscrambler/bin/Debug/netcoreapp3.1/word_unscrambler.runtimeconfig.json
+/Users/zidan/Code/word_unscrambler/word_unscrambler/bin/Debug/netcoreapp3.1/word_unscrambler.runtimeconfig.dev.json
+/Users/zidan/Code/word_unscrambler/word_unscrambler/bin/Debug/netcoreapp3.1/word_unscrambler.dll
+/Users/zidan/Code/word_unscrambler/word_unscrambler/bin/Debug/netcoreapp3.1/word_unscrambler.pdb
+/Users/zidan/Code/word_unscrambler/word_unscrambler/obj/Debug/netcoreapp3.1/word_unscrambler.dll
+/Users/zidan/Code/word_unscrambler/word_unscrambler/obj/Debug/netcoreapp3.1/word_unscrambler.pdb
+/Users/zidan/Code/word_unscrambler/word_unscrambler/obj/Debug/netcoreapp3.1/word_unscrambler.genruntimeconfig.cache

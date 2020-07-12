@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{717F9916-9136-4F7F-9F6C-5C840FADEDDB}|Default">
+  <MonoDevelop.Ide.ItemProperties.word__unscrambler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="word_unscrambler/Program.cs">
+    <Files>
+      <File FileName="word_unscrambler/Program.cs" Line="75" Column="18" />
+      <File FileName="word_unscrambler.Test.Unit/word_unscrambler.Test.Unit.cs" Line="21" Column="2" />
+      <File FileName="word_unscrambler/MatchedWord.cs" Line="5" Column="36" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="word_unscrambler" expanded="True">
+            <Node name="word_unscrambler" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="word_unscrambler.Test.Unit" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="word_unscrambler" expanded="True">
+            <Node name="word_unscrambler.Test.Unit" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

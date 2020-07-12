@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "word_unscrambler/1.0.0": {
+        "runtime": {
+          "word_unscrambler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "word_unscrambler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
